@@ -18,6 +18,6 @@
 a[name]:hover:after {
     /*Shows the value of the name attribute when hovered*/
     content: " #" attr(name);
-    font-size: 90%;
+    font-size: 80%;
     text-decoration: none;
 }
